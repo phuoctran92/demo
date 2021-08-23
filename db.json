@@ -1,11 +1,22 @@
 {
   "posts": [
-      {
+     {
       "id": 1,
       "email": "admin1@vinova.com.sg",
       "status": "DeActive",
       "avatar": "https://cdn.icon-icons.com/icons2/2438/PNG/512/boy_avatar_icon_148455.png",
       "role": "mentor",
-    }
-  ],
+      "technology": [
+        {
+          "technology" : "NodeJS"
+        },
+        {
+          "technology" : "ReactJS"
+        },
+        {
+          "technology" : "Ruby on Rails"
+        }
+      ],
+    ],
+  }
 }
