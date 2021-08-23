@@ -6,7 +6,6 @@
       "status": "DeActive",
       "avatar": "https://cdn.icon-icons.com/icons2/2438/PNG/512/boy_avatar_icon_148455.png",
       "role": "mentor",
-      "technology": ["NodeJS", "ReactJS", "Ruby on Rails"],
     }
   ],
 }
